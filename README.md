@@ -1,6 +1,5 @@
-- <img src="https://user-images.githubusercontent.com/95197153/169322248-b51288e4-110c-41d7-b4c9-69f8d20bd5d1.png">
+<img src="https://user-images.githubusercontent.com/95197153/169322248-b51288e4-110c-41d7-b4c9-69f8d20bd5d1.png">
 
-- 
 - 👋 Hi, I’m @corricodes
 - 👀 I'm a full-stack developer!
 - 🌱 I’m currently learning and practicing code in React.js. I'm always looking for new ways to grow as a software developer.
