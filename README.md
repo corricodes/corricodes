@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building an online store.**
 
-- 🌱 I’m currently learning **Reach.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **tools for online teaching.**
 
