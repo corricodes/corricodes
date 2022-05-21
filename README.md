@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/95197153/169322248-b51288e4-110c-41d7-b4c9-69f8d20bd5d1.png">
+![Pink and Purple Galaxy Twitch Banner](https://user-images.githubusercontent.com/95197153/169656777-8a668d45-2fea-4a40-8820-b75299dd736e.png)
 
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
