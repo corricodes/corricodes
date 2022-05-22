@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building an online store.**
 
-- 🌱 I’m currently learning **databases, JavaScript, Git, React.js & Figma**
+- 🌱 I’m currently learning **databases, JavaScript, Git, React.js & Figma.**
 
 - 👯 I’m looking to collaborate on **tools for online teaching.**
 
