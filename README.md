@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **tools for online teaching, especially for music lessons!**
 
-- 👨‍💻 All of my projects are available at [https://corricodes.netlify.app/](https://corricodes.netlify.app/)
+- 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
 - 📫 How to reach me **corriganbaker@gmail.com**
 
