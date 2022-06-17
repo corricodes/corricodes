@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, while also improving my skills with JavaScript, Git & using databases.**
 
-- 👯 I’m looking to collaborate on **tools for online teaching, especially for music lessons!**
+- 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
 
 - 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
