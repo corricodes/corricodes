@@ -3,9 +3,13 @@
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **building an online store with HTML, CSS, JavaScript and MongoDB.**
+- 🔭 I’m currently working on:
+**● building an online store with HTML, CSS, JavaScript and MongoDB.**
+**● a website featuring my own recipes.**
+**● a webstite featuring sustainablity and low-waste tips.**
+**● a new portfolio layout with new elements I have learned since building my current portfolio.**
 
-- 🌱 I’m currently learning **React, while also improving my skills with JavaScript, Git & using databases.**
+- 🌱 I’m currently learning **React and Python, while also improving my skills with JavaScript, Git & using databases.**
 
 - 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
 
