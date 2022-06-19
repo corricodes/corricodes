@@ -7,13 +7,12 @@
 </br>**● building an online store with HTML, CSS, JavaScript and MongoDB.**
 </br>**● a website featuring my own recipes.**
 </br>**● a webstite featuring sustainablity and low-waste tips.**
-</br>**● a new portfolio layout with new elements I have learned since building my current portfolio.**
 
 - 🌱 I’m currently learning **React and Python, while also improving my skills with JavaScript, Git & using databases.**
 
 - 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
 
-- 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
+- 👨‍💻 All of my projects are available at [CorriCodes - RECENTLY UPDATED!](https://corricodes.netlify.app/)
 
 - 📫 How to reach me **corriganbaker@gmail.com**
 
