@@ -1,4 +1,4 @@
-![Pink and Purple Galaxy Twitch Banner](https://user-images.githubusercontent.com/95197153/169656777-8a668d45-2fea-4a40-8820-b75299dd736e.png)
+![CorriCodesMainLogo](https://user-images.githubusercontent.com/95197153/174530628-a03a6a2d-fb10-4fa2-a495-604b780fe6d0.png)
 
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
