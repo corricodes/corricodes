@@ -5,10 +5,14 @@
 
 - 🔭 I’m currently working on:
 </br>**● building an online store with HTML, CSS, JavaScript and MongoDB.**
+</br>**● a portfolio for a client's backend projects.**
 </br>**● a website featuring my own recipes.**
-</br>**● a webstite featuring sustainablity and low-waste tips.**
+</br>**● a blog featuring sustainablity and low-waste tips.**
+</br>**● a weather app.**
+</br>**● a tarot reader.**
+</br>**● a currency converter.**
 
-- 🌱 I’m currently learning **React and Python, while also improving my skills with JavaScript, Git & using databases.**
+- 🌱 I’m currently learning **TypeScript, React and Python, while also improving my skills with JavaScript, Git & using databases.**
 
 - 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
 
