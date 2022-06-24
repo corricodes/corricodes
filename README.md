@@ -1,7 +1,7 @@
 ![CorriCodesMainLogo](https://user-images.githubusercontent.com/95197153/174530628-a03a6a2d-fb10-4fa2-a495-604b780fe6d0.png)
 
-<h1 align="center">Hi 👋, I'm Corri</h1>
-<h3 align="center">A passionate full stack developer from Canada</h3>
+<h1 align="center">Hi 👋, I'm Corri 👾</h1>
+<h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
 - 🔭 I’m currently working on:
 </br>**● building an online store with CRUD functionality in HTML, CSS, JavaScript and MongoDB.**
@@ -17,6 +17,8 @@
 - 🌱 I’m currently learning **TypeScript, React and Python, while also improving my skills with JavaScript, Git & using databases.**
 
 - 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
+
+- 📚 I'm intersted in learning more about **AI and machine learning.**
 
 - 👨‍💻 All of my projects are available at [CorriCodes - RECENTLY UPDATED!](https://corricodes.netlify.app/)
 
