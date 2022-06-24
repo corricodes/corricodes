@@ -7,7 +7,6 @@
 </br>**● building an online store with HTML, CSS, JavaScript and MongoDB.**
 
 - Next projects:
-
 </br>**● a portfolio for a client's backend projects.**
 </br>**● a website featuring my own recipes.**
 </br>**● a blog featuring sustainablity and low-waste tips.**
