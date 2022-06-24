@@ -4,14 +4,14 @@
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
 - 🔭 I’m currently working on:
-</br>**● building an online store with HTML, CSS, JavaScript and MongoDB.**
+</br>**● building an online store with CRUD functionality in HTML, CSS, JavaScript and MongoDB.**
 
-- Next projects:
+- 🔮 Future projects:
 </br>**● a portfolio for a client's backend projects.**
 </br>**● a website featuring my own recipes.**
 </br>**● a blog featuring sustainablity and low-waste tips.**
 </br>**● a weather app.**
-</br>**● a tarot reader.**
+</br>**● a tarot card API.**
 </br>**● a currency converter.**
 
 - 🌱 I’m currently learning **TypeScript, React and Python, while also improving my skills with JavaScript, Git & using databases.**
