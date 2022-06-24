@@ -31,8 +31,8 @@
 <a href="https://instagram.com/corricodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corricodes" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/corrigan-baker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corrigan-baker" height="30" width="40" /></a>
 </p>
-<p>
-<a href="https://www.codewars.com/users/corricodes"><img alighn="center" src="https://www.codewars.com/users/corricodes/badges/micro" alt="codewars">
+<p align="center">
+<a href="https://www.codewars.com/users/corricodes"><img align="center" src="https://www.codewars.com/users/corricodes/badges/micro" alt="codewars">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
