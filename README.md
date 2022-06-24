@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [CorriCodes - RECENTLY UPDATED!](https://corricodes.netlify.app/)
 
-- 📫 How to reach me **corriganbaker@gmail.com**
+- 📫 How to reach me **use the form in my portfolio to send me an email!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
