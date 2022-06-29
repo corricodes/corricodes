@@ -7,6 +7,7 @@
 </br><del>**● building an online store with CRUD functionality in HTML, CSS, JavaScript and MongoDB.</del>**
 </br>**● successfully deploy demo for online store.**
 </br>**● a portfolio for a client's backend projects.**
+</br>**● adding and editing README files.**
 
 - 🔮 Future projects:
 </br>**● a website featuring my own recipes.**
