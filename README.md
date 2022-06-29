@@ -15,7 +15,7 @@
 </br>**● a tarot card API.**
 </br>**● a currency converter.**
 
-- 🌱 I’m currently learning **TypeScript, React and Python, while also improving my skills with JavaScript, Git & using databases.**
+- 🌱 I’m currently learning **TypeScript, React and Python.**
 
 - 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
 
