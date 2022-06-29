@@ -4,7 +4,8 @@
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
 - 🔭 I’m currently working on:
-</br>**● building an online store with CRUD functionality in HTML, CSS, JavaScript and MongoDB.**
+</br><del>**● building an online store with CRUD functionality in HTML, CSS, JavaScript and MongoDB.</del>**
+</br>**● successfully deploy demo for online store.**
 </br>**● a portfolio for a client's backend projects.**
 
 - 🔮 Future projects:
