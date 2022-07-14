@@ -8,6 +8,7 @@
 </br>**● successfully deploy demo for online store.**
 </br>**● a portfolio for a client's backend projects.**
 </br>**● adding and editing README files.**
+</br>**● daily CodeWars challenges & interview prep!**
 
 - 🔮 Future projects:
 </br>**● a website featuring my own recipes.**
@@ -16,13 +17,13 @@
 </br>**● a tarot card API.**
 </br>**● a currency converter.**
 
-- 🌱 I’m currently learning **TypeScript, React and Python.**
+- 🌱 I’m currently learning **TypeScript, React and Python - and doing this is helping me improve my skills in JavaScript!**
 
 - 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
 
 - 📚 I'm intersted in learning more about **AI and machine learning.**
 
-- 👨‍💻 All of my projects are available at [CorriCodes - RECENTLY UPDATED!](https://corricodes.netlify.app/)
+- 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
 - 📫 How to reach me: **use the form in my portfolio to send me an email!**
 
