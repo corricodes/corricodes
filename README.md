@@ -4,15 +4,15 @@
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
 - 🔭 I’m currently working on:
-</br><del>**● building an online store with CRUD functionality in HTML, CSS, JavaScript and MongoDB.</del>**
-</br>**● successfully deploy demo for online store.**
-</br>**● a portfolio for a client's backend projects.**
+</br>**● JavaScript review.**
+</br>**● successfully deploying demo for online store.**
+</br>**● working out a regular streaming schedule on Twitch.**
 </br>**● adding and editing README files.**
 </br>**● daily CodeWars challenges & interview prep!**
 
 - 🔮 Future projects:
-</br>**● a website featuring my own recipes.**
-</br>**● a blog featuring sustainablity and low-waste tips.**
+</br>**● a to-do list with React.**
+</br>**● completing courses on React, TypeScript and Python.**
 </br>**● a weather app.**
 </br>**● a tarot card API.**
 </br>**● a currency converter.**
