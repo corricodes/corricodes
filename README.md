@@ -4,11 +4,11 @@
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
 - 🔭 I’m currently working on:
-</br>**● JavaScript review.**
-</br>**● successfully deploying demo for online store.**
+</br>**● building a CRUD app with Ruby on Rails.**
+</br>**● reading Eloquent JavaScript.**
 </br>**● working out a regular streaming schedule on Twitch.**
 </br>**● adding and editing README files.**
-</br>**● daily CodeWars challenges & interview prep!**
+</br>**● pushing daily CodeWars challenges.**
 
 - 🔮 Future projects:
 </br>**● a to-do list with React.**
