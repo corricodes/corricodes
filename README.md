@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on:
 </br>● building a CRUD app with **Ruby on Rails**.
-</br>**● reading Eloquent JavaScript.**
+</br>● reading **Eloquent JavaScript.**
 </br>● working out a regular streaming schedule on **Twitch**.
-</br>● adding and editing 88README files**.
+</br>● adding and editing **README files**.
 </br>● pushing daily **CodeWars** challenges.
 
 - 🔮 Future projects:
