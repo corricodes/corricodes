@@ -4,22 +4,22 @@
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
 - 🔭 I’m currently working on:
-</br>**● building a CRUD app with Ruby on Rails.**
+</br>● building a CRUD app with **Ruby on Rails**.
 </br>**● reading Eloquent JavaScript.**
-</br>**● working out a regular streaming schedule on Twitch.**
-</br>**● adding and editing README files.**
-</br>**● pushing daily CodeWars challenges.**
+</br>● working out a regular streaming schedule on **Twitch**.
+</br>● adding and editing 88README files**.
+</br>● pushing daily **CodeWars** challenges.
 
 - 🔮 Future projects:
-</br>**● a to-do list with React.**
-</br>**● completing courses on React, TypeScript and Python.**
-</br>**● a weather app.**
-</br>**● a tarot card API.**
-</br>**● a currency converter.**
+</br>● a to-do list with **React**.
+</br>● completing courses on **React, TypeScript and Python**.
+</br>● a **weather app**.
+</br>● a **tarot card API**.
+</br>● a **currency converter**.
 
-- 🌱 I’m currently learning **TypeScript, React and Python - and doing this is helping me improve my skills in JavaScript!**
+- 🌱 I’m currently learning **Ruby on Rails** and I **LOVE** it!
 
-- 👯 I’m looking to collaborate on **tools for teaching online and in the classroom!**
+- 👯 I’m looking to collaborate on **ideas for online classroom apps!**
 
 - 📚 I'm intersted in learning more about **AI and machine learning.**
 
