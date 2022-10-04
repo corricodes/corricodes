@@ -3,14 +3,14 @@
 <h1 align="center">Hi 👋, I'm Corri 👾</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
-- 🔭 I’m currently working on:
+- 🔭 **I’m currently working on:**
 </br>● building a CRUD app with **Ruby on Rails**.
 </br>● reading **Eloquent JavaScript.**
 </br>● working out a regular streaming schedule on **Twitch**.
 </br>● adding and editing **README files**.
 </br>● pushing daily **CodeWars** challenges.
 
-- 🔮 Future projects:
+- 🔮 **Future projects:**
 </br>● a to-do list with **React**.
 </br>● completing courses on **React, TypeScript and Python**.
 </br>● a **weather app**.
