@@ -10,7 +10,7 @@
 </br>● pushing daily **CodeWars** & **LeetCode** challenges.
 
 - 🔮 **Future projects:**
-</br>● ~~a **weather app**.~~
+</br>● ~~a weather app with **React**.~~
 </br>● a to-do list with **React**.
 </br>● completing courses on **React, TypeScript and Python**.
 </br>● a **tarot card API**.
