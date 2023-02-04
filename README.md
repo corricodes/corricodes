@@ -6,18 +6,17 @@
 - 🔭 **I’m currently working on:**
 </br>● ~~building a CRUD app with **Ruby on Rails**.~~
 </br>● reading **Eloquent JavaScript.**
-</br>● working out a regular streaming schedule on **Twitch**.
-</br>● adding and editing **README files**.
-</br>● pushing daily **CodeWars** challenges.
+</br>● learning & building live on **Twitch**.
+</br>● pushing daily **CodeWars** & **LeetCode** challenges.
 
 - 🔮 **Future projects:**
+</br>● ~~a **weather app**.~~
 </br>● a to-do list with **React**.
 </br>● completing courses on **React, TypeScript and Python**.
-</br>● a **weather app**.
 </br>● a **tarot card API**.
 </br>● a **currency converter**.
 
-- 🌱 I’m currently learning **Ruby on Rails** and I **LOVE** it!
+- 🌱 I’m currently learning **TypeScript** & building with **React**!
 
 - 👯 I’m looking to collaborate on **ideas for online classroom apps!**
 
