@@ -5,13 +5,13 @@
 
 - 🔭 **I’m currently working on:**
 </br>● ~~building a CRUD app with **Ruby on Rails**.~~
+</br>● ~~a weather app with **React**.~~
 </br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
 </br>● completing Udemy course on **React**.
 </br>● learning & building live on **Twitch**.
 </br>● pushing daily **CodeWars** & **LeetCode** challenges.
 
 - 🔮 **Future projects:**
-</br>● ~~a weather app with **React**.~~
 </br>● a to-do list with **React**.
 </br>● practice working with **APIs**.
 </br>● take courses on **TypeScript and Python**.
