@@ -16,7 +16,7 @@
 </br>● start learning **Docker** & **Kubernates**.
 </br>● practice working with **APIs**.
 </br>● take courses on **TypeScript and Python**.
-</br>● improve **backend development skills** such as **Rails & NodeJS**.
+</br>● improve **backend development skills** such as **Rails** & **NodeJS**.
 </br>● build a **tarot card API**.
 </br>● start learning **Django**.
 </br>● start learning **AWS**.
