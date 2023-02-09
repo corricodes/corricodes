@@ -5,16 +5,19 @@
 
 - 🔭 **I’m currently working on:**
 </br>● ~~building a CRUD app with **Ruby on Rails**.~~
-</br>● reading **Eloquent JavaScript.**
+</br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
+</br>● completing Udemy course on **React**.
 </br>● learning & building live on **Twitch**.
 </br>● pushing daily **CodeWars** & **LeetCode** challenges.
 
 - 🔮 **Future projects:**
 </br>● ~~a weather app with **React**.~~
 </br>● a to-do list with **React**.
-</br>● completing courses on **React, TypeScript and Python**.
-</br>● a **tarot card API**.
-</br>● a **currency converter**.
+</br>● practice working with **APIs**.
+</br>● take courses on **TypeScript and Python**.
+</br>● improve **backend development skills** such as **Rails & NodeJS**.
+</br>● build a **tarot card API**.
+</br>● start learning **Django**.
 
 - 🌱 I’m currently learning **TypeScript** & building with **React**!
 
