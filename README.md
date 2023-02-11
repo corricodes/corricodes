@@ -8,6 +8,7 @@
 </br>● ~~a weather app with **React**.~~
 </br>● ~~a to-do list with **React**.~~
 </br>● practicing working with **APIs**.
+</br>● learning **Vim**.
 </br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
 </br>● completing Udemy course on **React**.
 </br>● learning & building live on **Twitch**.
