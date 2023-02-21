@@ -1,4 +1,4 @@
-![CorriCodesMainLogo](https://user-images.githubusercontent.com/95197153/174530628-a03a6a2d-fb10-4fa2-a495-604b780fe6d0.png)
+![CorriCodes](https://user-images.githubusercontent.com/95197153/220409505-de2fe5b1-e878-4abd-9b11-c3b5c1add164.gif)
 
 <h1 align="center">Hi 👋, I'm Corri 👾</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
