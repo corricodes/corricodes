@@ -7,7 +7,8 @@
 </br>● ~~building a CRUD app with **Ruby on Rails**.~~
 </br>● ~~a weather app with **React**.~~
 </br>● ~~a to-do list with **React**.~~
-</br>● practicing working with **APIs**.
+</br>● ~~practicing working with **APIs**.~~
+</br>● building a new portfolio in **React**.
 </br>● learning **Vim**.
 </br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
 </br>● completing Udemy course on **React**.
