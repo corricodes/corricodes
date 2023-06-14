@@ -4,25 +4,18 @@
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
 
 - 🔭 **I’m currently working on:**
-</br>● ~~building a CRUD app with **Ruby on Rails**.~~
-</br>● ~~a weather app with **React**.~~
-</br>● ~~a to-do list with **React**.~~
-</br>● ~~practicing working with **APIs**.~~
 </br>● building a new portfolio in **React**.
-</br>● learning **Vim**.
-</br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
 </br>● completing Udemy course on **React**.
+</br>● learning **NeoVim**.
+</br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
 </br>● learning & building live on **Twitch**.
 </br>● pushing daily **CodeWars** & **LeetCode** challenges.
 
 - 🔮 **Future projects:**
-</br>● start learning **Docker** & **Kubernates**.
-</br>● build new portfolio using **React**, **Tailwind** and other frameworks.
 </br>● take courses on **TypeScript** & **Python**.
 </br>● improve **backend development skills** such as **Rails** & **NodeJS**.
-</br>● build a **tarot card API**.
 </br>● start learning **Django**.
-</br>● start learning **AWS**.
+</br>● start learning **AWS** and **Docker**.
 
 - 🌱 I’m currently learning **TypeScript** & building with **React**!
 
