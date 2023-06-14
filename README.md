@@ -17,7 +17,7 @@
 </br>● start learning **Django**.
 </br>● start learning **AWS** and **Docker**.
 
-- 🌱 I’m currently learning **TypeScript** & building with **React**!
+- 🌱 I’m currently learning **React**!
 
 - 👯 I’m looking to collaborate on **ideas for online classroom apps!**
 
