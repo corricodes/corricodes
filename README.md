@@ -1,27 +1,23 @@
 ![CorriCodesHero](https://user-images.githubusercontent.com/95197153/220736042-cc8a430d-de23-47cd-86d2-06b29ad05ec9.gif)
 
-<h1 align="center">Hi 👋, I'm Corri 👾</h1>
+<h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
+<h5 align="center">I'm a CLI dork 👾</h5>
 
 - 🔭 **I’m currently working on:**
-</br>● building a new portfolio in **React**.
-</br>● completing Udemy course on **React**.
-</br>● learning **NeoVim**.
+</br>● building a new portfolio in **React**, it's sorta done, but needs work.
+</br>● learning **NeoVim** while completing Udemy course on **React** and it's gonna take me forever, but it's fun!
 </br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
-</br>● learning & building live on **Twitch**.
-</br>● pushing daily **CodeWars** & **LeetCode** challenges.
 
 - 🔮 **Future projects:**
 </br>● take courses on **TypeScript** & **Python**.
 </br>● improve **backend development skills** such as **Rails** & **NodeJS**.
-</br>● start learning **Django**.
-</br>● start learning **AWS** and **Docker**.
+</br>● push daily **CodeWars** & **LeetCode** challenges to improve on algorithms and stuff.
+</br>● build cool things for work and productivity!
 
-- 🌱 I’m currently learning **React**!
+- 🌱 I’m currently learning **React** & **NeoVim**!
 
-- 👯 I’m looking to collaborate on **ideas for online classroom apps!**
-
-- 📚 I'm intersted in learning more about **AI and machine learning.**
+- 📚 I'm interested in learning more about **AI and machine learning**, as well as **CLI tools**.
 
 - 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
