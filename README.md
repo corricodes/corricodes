@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
-<h4 align="center">I'm a CLI dork 👾</h4>
+<h4 align="center">I'm a CLI nerd 👾</h4>
 
 - 🔭 **I’m currently working on:**
 </br>● building a new portfolio in **React**, it's sorta done, but needs work.
-</br>● learning **NeoVim** while completing Udemy course on **React** and it's gonna take me forever, but it's fun!
+</br>● learning **NeoVim** while completing a Udemy course on **React** and it's gonna take me forever, but it's fun!
 </br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
+</br>● playing around with **Ubuntu** on my old beat-up laptop.
 
 - 🔮 **Future projects:**
 </br>● take courses on **TypeScript** & **Python**.
