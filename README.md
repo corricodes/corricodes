@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
-<h5 align="center">I'm a CLI dork 👾</h5>
+<h4 align="center">I'm a CLI dork 👾</h4>
 
 - 🔭 **I’m currently working on:**
 </br>● building a new portfolio in **React**, it's sorta done, but needs work.
