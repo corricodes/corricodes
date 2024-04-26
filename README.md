@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
-<h4 align="center">I'm a CLI nerd 👾</h4>
+<h4 align="center">I'm a nerd 👾</h4>
 
 - 🔭 **I’m currently working on:**
-</br>● building a new portfolio in **React**, it's sorta done, but needs work.
-</br>● learning **NeoVim** while completing a Udemy course on **React** and it's gonna take me forever, but it's fun!
-</br>● reading **Eloquent JavaScript** & **Cracking The Coding Interview**.
+</br>● building a new portfolio in **React**, it's mostly done, but I have more features I want to add.
+</br>● learning **NeoVim** while completing a Udemy course on **React** and it's taking me forever, but it's fun when I get the time to work on it!
+</br>● reading **Eloquent JavaScript** & non code related books.
 </br>● playing around with **Ubuntu** on my old beat-up laptop.
 
 - 🔮 **Future projects:**
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
-- 📫 How to reach me: **use the form in my portfolio to send me an email!**
+- 📫 How to reach me: **corricodes@gmail.com** I am currently taking on new clients!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
