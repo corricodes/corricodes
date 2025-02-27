@@ -2,23 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Corri</h1>
 <h3 align="center">A passionate full stack web developer & designer from Canada</h3>
-<h4 align="center">I'm a nerd 👾</h4>
 
-- 🔭 **I’m currently working on:**
-</br>● building a new portfolio in **React**, it's mostly done, but I have more features I want to add.
-</br>● learning **NeoVim** while completing a Udemy course on **React** and it's taking me forever, but it's fun when I get the time to work on it!
-</br>● reading **Eloquent JavaScript** & non code related books.
-</br>● playing around with **Ubuntu** on my old beat-up laptop.
-
-- 🔮 **Future projects:**
-</br>● take courses on **TypeScript** & **Python**.
-</br>● improve **backend development skills** such as **Rails** & **NodeJS**.
-</br>● push daily **CodeWars** & **LeetCode** challenges to improve on algorithms and stuff.
-</br>● build cool things for work and productivity!
+- 🔭 I’m currently working on completing a Udemy course on **React** and **CompTIA A+**.
 
 - 🌱 I’m currently learning **React** & **NeoVim**!
 
-- 📚 I'm interested in learning more about **AI and machine learning**, as well as **CLI tools**.
+- 📚 I'm currently reading **Eloquent JavaScript** and **The Testaments** (13/50 books read in 2025 so far).
 
 - 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
@@ -27,7 +16,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/corricodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="corricodes" height="30" width="40" /></a>
-<a href="https://twitter.com/corricodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corricodes" height="30" width="40" /></a>
 <a href="https://instagram.com/corricodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corricodes" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/corrigan-baker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corrigan-baker" height="30" width="40" /></a>
 </p>
