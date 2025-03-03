@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on completing a Udemy course on **React** and **CompTIA A+**.
 
-- 🌱 I’m currently learning **React** & **NeoVim**!
+- 🌱 I’m currently learning **React** & **NeoVim**.
 
-- 📚 I'm currently reading **Eloquent JavaScript** and **The Testaments** (13/50 books read in 2025 so far).
+- 📚 I'm currently reading **Eloquent JavaScript** and **Kingdom Of Ash (from the Throne Of Glass series)** (14/50 books read in 2025 so far).
 
 - 👨‍💻 All of my projects are available at [CorriCodes](https://corricodes.netlify.app/)
 
